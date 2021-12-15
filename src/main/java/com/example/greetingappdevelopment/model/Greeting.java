@@ -1,4 +1,4 @@
-package com.example.greetingappdevelopment;
+package com.example.greetingappdevelopment.model;
 
 public class Greeting {
     private long id;
